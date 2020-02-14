@@ -60,4 +60,5 @@ print('=' * 40)
 for i in range(3, 40, 3):
     print(i)
 
+# this willl return true
 print(my_range == range(3, 40, 3))
